@@ -1,0 +1,45 @@
+.page{
+	width: 780px;
+	margin: auto;
+	font-family: 'Source sans pro', Calibri, Tahoma, sans-serif;
+	font-size: 16px;
+}
+
+.infophoto{
+	height: 250px;
+}
+
+.info{
+	float: left;
+}
+
+.photo{
+	float: right;
+}
+
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+
+.sec-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.sec-droite{
+	margin-left: 140px;
+	margin-top: 55px;
+}
+
+h2{
+	font-size: 28px;
+	color: #3388BB;
+	border-bottom: 3px solid #3388DD;
+}
+
+#forma-gauche p{
+	margin-bottom: 10px;
+}
+
